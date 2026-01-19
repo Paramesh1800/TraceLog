@@ -50,6 +50,7 @@ OS	Windows / Linux
 Libraries	watchdog, psutil
 UI	Python-based dashboard
 Storage	Local logs & database
+
 📁 Project Structure
 Device-Tracking-System/
 │
@@ -137,7 +138,7 @@ Operating Systems
 System Monitoring
 Host-Based Intrusion Detection Concepts
 
-🧠 Viva Explanation (Short)
+🧠Explanation
 
 “TraceLog is a host-based endpoint activity monitoring system that records file and device activities locally to support productivity analysis and digital forensic investigations.”
 
